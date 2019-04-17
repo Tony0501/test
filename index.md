@@ -1,8 +1,8 @@
-## Welcome to My Home Pages
+## 欢迎来到我的主页
 
-You can use the [editor on GitHub](https://github.com/Tony0501/test/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+您可以使用[editor on GitHub](https://github.com/Tony0501/test/edit/master/index.md)在Markdown文件中维护和预览网站的内容。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+每当您提交到此存储库时, GitHub页面将从您的标记文件的内容运行[Jekyll](https://jekyllrb.com/)来重建站点中的页面。
 
 ### Markdown
 
